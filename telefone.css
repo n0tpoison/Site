@@ -1,0 +1,83 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+
+
+
+@font-face {
+    font-family: "AGUA";
+    src: url(/FONTE/agua_de_jamaica/Agua\ de\ Jamaica.ttf);
+}
+
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+h3 {
+color: rgb(255, 255, 255);
+font-size: 65px;
+font-family:"AGUA";
+margin-top: -40px;
+padding-top: 80px;
+}
+
+p {
+font-size: 23px;
+padding-bottom: 150px;
+
+
+}
+
+div {
+
+width: 750px;
+height: 370px;
+border: 4px solid rgb(192, 194, 199);
+padding-bottom: 70px;
+padding-left: 10px;
+border-radius: 40px;
+padding: 20px;
+padding-top: 30px;
+margin-top: 15px;
+}
+img {
+    margin-left: 80px;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+
+#color{
+background-color: rgb(0, 112, 255);
+width: 1450px;
+height: 150px;
+margin-top: -20px;
+border: none;
+}
+
+a{
+    text-decoration: none;
+    color: cornsilk;
+    padding: 5px;
+    padding-top: 300px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+#voltar{
+position: absolute;
+font-size: 30px;
+width: 100px;
+height: 7px;
+text-align: center;
+padding-bottom: 30px;
+border: none;
+background-color: rgb(0, 112, 255);
+margin-top: 500px;
+margin-left: 1300px;
+}
